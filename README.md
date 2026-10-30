@@ -1,6 +1,8 @@
 # 🃏 PHOTOLICE
 
-> *"A one-off Alice-layout (68-key) CNC-machined aluminium keyboard with a fold-out TCG card holder —* ***photo + alice.***"
+> *"An Alice-layout (68-key) CNC aluminium keyboard concept with a fold-out TCG card holder —* ***photo + alice.***"
+
+> **⚠️ Status: never produced.** Photolice was designed, modeled, and rendered, but was never manufactured. The board that was actually produced from this concept is **[Photolice Base](https://github.com/ReinTanto/photolice-base)**.
 
 <p align="center">
   <img src="images/render/02-desk-angle.png" width="700" alt="Photolice on the desk" />
@@ -13,13 +15,13 @@
 | | |
 |---|---|
 | **Form factor** | Alice layout (68-key, staggered) |
-| **Type** | One-off — a single board, not for sale |
+| **Type** | Concept — designed & rendered, never produced |
 | **Case** | CNC-machined 6061 aluminium, anodized |
 | **Colorway** | White top / black finned bottom, gold trim |
 | **Signature feature** | Fold-out TCG card holder — the case doubles as a card display |
 | **Bottom** | Ribbed / finned aluminium with a gold accent edge |
-| **Sound profile** | Aluminium case — clean, muted |
-| **Sourced from** | Alibaba supplier (China) |
+| **Sound profile** | Aluminium case — clean, muted (planned) |
+| **Status** | Never produced — remains a concept. The produced board based on this concept is **Photolice Base** |
 
 ---
 
@@ -63,7 +65,7 @@ The design was drafted as 2D curve files (DXF) and modeled in 3D, then rendered 
 
 - **2022** — the case, plate, and card-slot geometry were drafted as 2D curve files (DXF) and modeled in 3D.
 - **2022** — the board was rendered in Blender (the "Color Corrected" render set is used for the gallery below).
-- **Sourced from** an Alibaba supplier (China).
+- **Never produced** — the concept was designed and rendered but never manufactured. The board that was actually produced from this concept is **[Photolice Base](https://github.com/ReinTanto/photolice-base)**.
 
 ---
 
@@ -108,7 +110,7 @@ photolice/
 │   │   └── 04-plate-model.png         # Plate — 3D model
 │   └── render/
 │       ├── 01-card-closeup.png        # A TCG card in a fold-out slot
-│       ├── 02-desk-angle.jpg          # Hero — assembled board on the desk
+│       ├── 02-desk-angle.png          # Hero — assembled board on the desk
 │       ├── 03-bottom-fins.png         # Bottom — finned slab on the desk
 │       ├── 04-side-profile.png        # Side profile — gold accent edge
 │       ├── 05-top-cards.png           # Top view — Alice layout with cards
@@ -120,4 +122,4 @@ photolice/
 
 ---
 
-*Built by [ReinTanto](https://github.com/ReinTanto). A one-off — no group buy, no for-sale.* 🃏
+*Designed by [ReinTanto](https://github.com/ReinTanto). A concept — never produced. The produced board based on this concept is [Photolice Base](https://github.com/ReinTanto/photolice-base).* 🃏
