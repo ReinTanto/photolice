@@ -14,13 +14,11 @@
 
 | | |
 |---|---|
-| **Form factor** | Alice layout (68-key, staggered) |
+| **Form factor** | Alice layout |
 | **Type** | Concept — designed & rendered, never produced |
-| **Case** | CNC-machined 6061 aluminium, anodized |
+| **Case** | Multi-layer laser cut acrylic (Varying thicknesses) |
 | **Colorway** | White top / black finned bottom, gold trim |
-| **Signature feature** | Fold-out TCG card holder — the case doubles as a card display |
-| **Bottom** | Ribbed / finned aluminium with a gold accent edge |
-| **Sound profile** | Aluminium case — clean, muted (planned) |
+| **Signature feature** | Intergrated wristrest that doubles as a card display |
 | **Status** | Never produced — remains a concept. The produced board based on this concept is **Photolice Base** |
 
 ---
